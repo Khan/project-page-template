@@ -30,19 +30,5 @@ First Contact should be available on both the project page and README. Same for
 the Black Triangle. After landing on either page a user can get up to speed on
 what the project can do for them and get the thing running on their machine.
 
-TODO(joel) - Figure out where the hairball and the reference live. Project page?
-Github? readme.io?
-
-TODO(joel) - Fill out the examples:
-
-* (project name)
-  - KaTeX
-  - React Components
-* (subtitle)
-  - The fastest math typesetting library for the web
-  - reusable components by Khan Academy
-* (github page url)
-  - http://khan.github.io/
-  - http://react-components.github.io/
-* (one sentence description)
-  - Simple API, no dependencies – yet super-fast on all major browsers.
+The hairball and reference live at khan-academy.readme.io. Ask someone to send
+you an invite if you don't have a login yet.
